@@ -1,0 +1,8 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+evm_version = "london"
+
+# sDOLA LlamaLend donation attack — one block before exploit
+fork_block_number = 24566936
